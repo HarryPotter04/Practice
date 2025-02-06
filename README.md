@@ -1,0 +1,3 @@
+- Written by Harrypotter as a practice
+- on the 06th of feb 2025
+- This project is just to restart back again purely Html/css/js
