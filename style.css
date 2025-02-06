@@ -6,3 +6,12 @@
 body {
  background-color: rgb(164, 192, 201);
 }
+form div .form-details{
+    color: black;
+    border: 3px;
+    border-radius: 15px;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+}
